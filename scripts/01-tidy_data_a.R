@@ -1,6 +1,7 @@
 # Ecologia de poblaciones
 # Codigo 01b Lectura de datos ordenadas
 # Profesor Hector Zumbado Ulate
+# Nicole Ginger Bodra Jiménez
 
 # setup ----------------------------------------------------------
 
