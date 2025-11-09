@@ -22,19 +22,16 @@ Italian (Proficient)
 
 ORCID: 0000-0002-6789-3785
 
-<h2 align="center">Habitat suitability for the <i>Daptrius chimachima</i> species in Costa Rica based on the HumanFootprint</h2>
 <p align="center">
-  <img src="https://github.com/gingerbodra/eco_pc/blob/main/suitability.jpg" alt="fig1" width="400">
+  <img src="https://raw.githubusercontent.com/gingerbodra/eco_pc/main/suitability.jpg" alt="fig1" width="400">
 </p>
 
-<h2 align="center">Influence of the hfp (Human Footprint) variable on the distribution of <i>Daptrius chimachima</i></h2>
 <p align="center">
-  <img src="https://github.com/gingerbodra/eco_pc/blob/main/hfp_pred.jpg" alt="fig2" width="400">
+  <img src="https://raw.githubusercontent.com/gingerbodra/eco_pc/main/hfp_pred.jpg" alt="fig2" width="400">
 </p>
 
-<h2 align="center">Habitat suitability classification (low, medium or high) for <i>Daptrius chimachima</i> in Costa Rica</h2>
 <p align="center">
-  <img src="https://github.com/gingerbodra/eco_pc/blob/main/distribution_lmh.jpg" alt="fig3" width="400">
+  <img src="https://raw.githubusercontent.com/gingerbodra/eco_pc/main/distribution_lmh.jpg" alt="fig3" width="400">
 </p>
 
 
