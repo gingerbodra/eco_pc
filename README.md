@@ -1,4 +1,6 @@
 # Repository resume
+Repository of the Population and Community Ecology Laboratory Course Project
+
 ## Nicole Ginger Bodra Jiménez
 
 <p align="center">
