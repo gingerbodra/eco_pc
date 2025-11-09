@@ -16,5 +16,9 @@ English (Proficient)
 Italian (Proficient)
 
 ## Contact information
+[email](mailto:ngbodra@gmail.com)
 
+[GitHub](https://github.com/gingerbodra)
+
+ORCID: 0000-0002-6789-3785
 
